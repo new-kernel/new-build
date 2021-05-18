@@ -1,7 +1,9 @@
 # New Build
 
-An interpreted language for compiling Assembly, C, and Rust, intended for compiling 
+An language for compiling Assembly, C, and Rust, intended for compiling 
 [Novusk](https://github.com/new-kernel/novusk/)
+
+Read ``examples/`` for Assembly, C and Rust examples
 
 ---
 
